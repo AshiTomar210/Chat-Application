@@ -30,6 +30,7 @@ This is a basic **Client-Server Chat Application** built using **Java**, utilizi
 ```bash
 javac ChatServer.java
 javac ChatClient.java
+```
 
 2. Run the Server
 
@@ -43,12 +44,12 @@ java ChatClient
 ---
 
 📂 File Structure
-
+```bash
 ChatApp/
 ├── ChatServer.java
 ├── ChatClient.java
 └── README.md
-
+```
 
 ---
 
@@ -67,19 +68,20 @@ Input/Output Streams – for sending and receiving data.
 ---
 
 ✨ Sample Output
-
+```bash
 Server Terminal:
 
 Server started...
 Client connected!
 Client: Hello Server
-
+```
+```bash
 Client Terminal:
 
 Client started...
 Connected to Server!
 You: Hello Server
-
+```
 
 ---
 
@@ -94,5 +96,6 @@ For multiple clients, you can create multiple instances of ChatClient.java.
 ---
 
 👩‍💻 Made with ❤️ by Ashi Tomar
+
 
 ---
